@@ -49,9 +49,7 @@
 
 <br/>   
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22prygtaamize3wrymvun2eza&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22prygtaamize3wrymvun2eza&cover_image=true&theme=default&show_offline=true&background_color=121212" /></div>  
-
-<br/>  
+ 
 
 
 
